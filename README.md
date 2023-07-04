@@ -15,7 +15,9 @@
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mslsoftech&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mslsoftech&theme=github_dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :-: | :-: |
-  
+
+&nbsp;
+
 <div style="display: inline_block" align="center">
   <h3 align="center">Learning Skills</h3>  
   <img align="center" alt="html icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
