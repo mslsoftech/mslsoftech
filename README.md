@@ -18,7 +18,7 @@
 
 &nbsp;
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   <h3 align="left">Learning Skills</h3>  
   <img align="left" alt="html icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="left" alt="css icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
