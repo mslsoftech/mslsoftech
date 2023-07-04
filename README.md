@@ -16,8 +16,6 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mslsoftech&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mslsoftech&theme=github_dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :-: | :-: |
 
-&nbsp;
-
 <h3 align="center">Languages and Tools:</h3> 
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" alt="hive" width="30" height="30"/></p>
@@ -42,4 +40,4 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 ![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg)
-![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif)
+<!-- ![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif) -->
