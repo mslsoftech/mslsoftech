@@ -5,6 +5,9 @@
 <a href = "mailto:moonshine.contact.us@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 <!-- <a href="https://www.linkedin.com/in/william-fenlon-mobiledev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> -->
 </div>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+
 &nbsp;
 <p align="center"><img alt="All rights reserved to GameStop: Rise of the Players (https://www.behance.net/gallery/143584307/GameStop-Rise-of-the-Players)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="50%" </p>
 
@@ -37,3 +40,4 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
  
 ![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg)
+![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif)
