@@ -18,7 +18,11 @@
 
 &nbsp;
 
-<div style="display: inline_block" align="center">
+<h3 align="center">Languages and Tools:</h3> 
+
+<p align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" alt="hive" width="30" height="30"/></p>
+
+<!-- <div style="display: inline_block" align="center">
   <h3 align="center">Learning Skills</h3>  
   <img align="center" alt="html icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
@@ -34,7 +38,7 @@
   <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="outsystems icon" height="30" width="30" src="https://cdn.dribbble.com/users/1169868/avatars/normal/e546fafff6f48ae43bdbc25ab2460fcb.png?1475594720" />  
-</div>
+</div> -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 ![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg)
