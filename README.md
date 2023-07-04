@@ -6,7 +6,7 @@
 <!-- <a href="https://www.linkedin.com/in/william-fenlon-mobiledev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> -->
 </div>
 
-<hr>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 🧑 About me </h3>
