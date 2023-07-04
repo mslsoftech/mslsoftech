@@ -36,8 +36,8 @@
   <img align="left" alt="outsystems icon" height="30" width="30" src="https://cdn.dribbble.com/users/1169868/avatars/normal/e546fafff6f48ae43bdbc25ab2460fcb.png?1475594720" />  
 </div>
 
-  
-    
+&nbsp;
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
- 
-![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg) | ![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif)
+![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg)
+![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif)
