@@ -6,6 +6,25 @@
 <!-- <a href="https://www.linkedin.com/in/william-fenlon-mobiledev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> -->
 </div>
 
+<hr>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<h3> 🧑 About me </h3>
+
+<!-- - 🔭 I’m currently working on [InstaPyBot](https://github.com/craniatech2021/) -->
+                    
+- 🌱 I’m currently learning **Everything 🤣**
+
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/craniatech2021/](https://github.com/craniatech2021/) -->
+
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/](https://www.linkedin.com/in/) -->
+
+- ⚡ Fun fact **I love to code**
+
+<h3> 🏆 Badges </h3>
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 &nbsp;
 <!-- <p align="center"><img alt="All rights reserved to GameStop: Rise of the Players (https://www.behance.net/gallery/143584307/GameStop-Rise-of-the-Players)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" width="50%" </p> -->
