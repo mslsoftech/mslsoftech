@@ -1,7 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 &nbsp;
 
-<h1 align="center"> Hello there! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
+<!-- <h1 align="center"> Hello there! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1> -->
 <h3 align="center">Senior Mobile App Developer | Swift | SwiftUI | Flutter | React Native | Java | Kotlin</h3>
 <div align="center">
 <!-- <a href="https://www.instagram.com/williambfenlon0406" target="_blank"><img alt="All rights reserved to u/CelerSoloSpieler @ Reddit"src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a> -->
