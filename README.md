@@ -1,3 +1,6 @@
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+&nbsp;
+
 <h1 align="center"> Hello there! <img src="https://i.redd.it/26s9eejm8vz51.png" width="60px"></h1>
 <h3 align="center">Senior Mobile App Developer | Swift | SwiftUI | Flutter | React Native | Java | Kotlin</h3>
 <div align="center">
@@ -5,9 +8,6 @@
 <!-- <a href = "mailto:moonshine.contact.us@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> -->
 <!-- <a href="https://www.linkedin.com/in/william-fenlon-mobiledev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> -->
 </div>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
-&nbsp;
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -60,5 +60,5 @@
 </div> -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
-![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rodhis/rodhis/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif) -->
